@@ -1,0 +1,25 @@
+.hello{
+    position: absolute;
+    right: 50%;
+    left: 50%;
+
+
+
+
+}.img{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    position: fixed;
+
+
+
+
+}.qr{
+height: 50%;
+width: auto;
+
+
+}
